@@ -19,5 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "ppapb_pertemuan-9"
+rootProject.name = "ButtomNavbar"
 include(":app")
+ 
